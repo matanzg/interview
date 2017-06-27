@@ -81,7 +81,6 @@
 
 ### Articles
 
-* Pramp - [Top 8 Mistakes in Technical Interviews According to Data](https://blog.pramp.com/top-8-mistakes-in-technical-interviews-according-to-data-27d2572bda1f)
 * Steve Yegge – [Get That Job at Google](http://steve-yegge.blogspot.co.uk/2008/03/get-that-job-at-google.html)
 * Steve Yegge – [Ten Tips for a (Slightly) Less Awful Resume](http://steve-yegge.blogspot.co.uk/2007_09_01_archive.html)
 * Carlos Bueno – [Get That Job at Facebook](https://www.facebook.com/notes/10150964382448920)
@@ -94,6 +93,7 @@
 * [u/RunninADorito](https://www.reddit.com/user/RunninADorito) – [How to Prepare for Tech Interviews](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/)
 * Bill Sourour – [How To Win the Coding Interview](https://blog.devmastery.com/how-to-win-the-coding-interview-71ae7102d685)
 * Ammon Bartram – [How To Pass a Programming Interview](http://blog.triplebyte.com/how-to-pass-a-programming-interview)
+* Pramp - [Top 8 Mistakes in Technical Interviews According to Data](https://blog.pramp.com/top-8-mistakes-in-technical-interviews-according-to-data-27d2572bda1f)
 
 ### Books
 
@@ -129,8 +129,8 @@
 
 ### Mock interviews
 
-* [Pramp](https://www.pramp.com/ref/gt2) - A free on demand interview practice platform for Software Engineers - Practice coding interviews with real peers
 * [interviewing.io](https://interviewing.io/)
+* [Pramp](https://www.pramp.com/ref/gt2)
 * [Refdash](https://refdash.com/)
 * [Gainlo](http://www.gainlo.co/)
 * [Candidacy.io](https://www.candidacy.io/)
